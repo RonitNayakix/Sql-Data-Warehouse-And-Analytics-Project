@@ -56,3 +56,7 @@ For more details, refer to docs/requirements.md.
 # 📂 Repository Structure
 
 ![image](https://github.com/user-attachments/assets/a66d879a-65ce-4c77-abe0-422223311179)
+
+# 🪙 License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
