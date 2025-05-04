@@ -51,8 +51,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-For more details, refer to docs/requirements.md.
-
 # 📂 Repository Structure
 
 ![image](https://github.com/user-attachments/assets/a66d879a-65ce-4c77-abe0-422223311179)
