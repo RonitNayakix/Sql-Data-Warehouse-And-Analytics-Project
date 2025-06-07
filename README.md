@@ -59,3 +59,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 # 🪙 License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+# 🎁 Project Inspiration
+Special thanks to Baraa Khatib Salkini (Data With Baraa) for inspiring and guiding this project.
+![youtube-logo-png-2065](https://github.com/user-attachments/assets/a78ed750-1f7b-4173-af62-cadfb427bd43)(https://www.youtube.com/channel/UC8_RSKwbU1OmZWNEoLV1tQg)
