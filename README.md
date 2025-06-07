@@ -62,5 +62,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 # 🎁 Project Inspiration
 Special thanks to Baraa Khatib Salkini (Data With Baraa) for inspiring and guiding this project.
-![image](https://github.com/user-attachments/assets/af21b13a-28a9-42a6-bebd-34da525719d8)
-(https://www.youtube.com/channel/UC8_RSKwbU1OmZWNEoLV1tQg)
+https://www.youtube.com/channel/UC8_RSKwbU1OmZWNEoLV1tQg
