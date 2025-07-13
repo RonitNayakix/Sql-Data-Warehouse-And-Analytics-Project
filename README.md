@@ -1,4 +1,4 @@
-# 🗂️ Data Warehouse and Analytics Project
+<img width="1305" height="729" alt="ETL Process" src="https://github.com/user-attachments/assets/3322d3ca-99f3-41f4-903d-2b6e0f038926" /># 🗂️ Data Warehouse and Analytics Project
 
 Welcome to the Data Warehouse and Analytics Project repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
@@ -36,8 +36,7 @@ This project involves:
 ## Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-![Uploading image.png…]()
-
+![Uploading ETL Process.png…]()
 
 ## Specifications
 1. Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
